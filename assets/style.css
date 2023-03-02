@@ -7,6 +7,7 @@
     margin-top: 40px;
     padding-left: 15%;
     padding-right: 15%;
+    width: auto;
 }
 h1{
     text-align: center;
@@ -16,5 +17,33 @@ h1{
 
 .descrizione{
     text-align: center;
+    margin-bottom: 1.5em;
 }
 
+img{
+    width: 100px;
+    height: 90px;
+    float: left;
+}
+h2{
+    margin-bottom: 10px;
+}
+
+.mansione{
+    margin-bottom: 8px;
+}
+.cards{
+    width: 350px;
+    height: 90px;
+    background-color: rgb(8, 0, 57);
+    color: white;
+    float: left;
+    margin: 10px;
+}
+.text{
+    float: left;
+    margin-left: 5px;
+}
+.email{
+ color: blue;
+}
