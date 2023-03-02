@@ -3,13 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
-    margin: 25%;
-    padding: 5rem;
+.conteiner{
+    margin-top: 40px;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 h1{
     text-align: center;
     color: deeppink;
+    margin-bottom: 2em;
 }
 
 .descrizione{
