@@ -23,8 +23,9 @@ h1{
 .descrizione{
     text-align: center;
     margin-bottom: 1.5em;
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
+
 
 img{
     width: 100px;
@@ -44,7 +45,7 @@ h2{
     font-family: 'Exo 2', sans-serif;
 }
 .cards{
-    width: 350px;
+    width: 425px;
     height: 90px;
     background-color: rgb(8, 0, 57);
     color: white;
@@ -53,7 +54,7 @@ h2{
 }
 .text{
     float: left;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 .email{
  color: blue;
